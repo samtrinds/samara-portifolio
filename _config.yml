@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "pt-BR"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Samara da Trindade - Analista de Infraestrutura e Redes"
+title                    : "Samara da Trindade - Analista de Redes e Infraestrutura"
 title_separator          : "-"
 name                     : &name "Samara da Trindade"
-description              : &description "Analista de Infraestrutura e Redes com 8 anos de experiência em TI, especializada em ambientes Linux/Windows, automação com Shell Script, virtualização e cloud computing (AWS)."
-url                      : https://samara-trindade.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "Analista de Redes e Infraestrutura com 8 anos de experiência em TI, atuando em ambientes Linux/Windows, automação com Shell Script, virtualização e cloud computing (AWS)."
+url                      : https://samtrinds.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "samara-trindade/samara-trindade.github.io"
+repository               : "samtrinds/samtrinds.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,38 +25,16 @@ author:
   avatar           : "profile.png"
   name             : "Samara da Trindade"
   pronouns         : "ela/dela"  
-  bio              : "Analista de Infraestrutura e Redes especializada em automação, virtualização e cloud computing"
-  location         : "Vitória da Conquista, BA"
+  bio              : "Analista de Rede e Infraestrutura | suporte |servidores Linux/Windows e Virtualização | Automação (Ansible/Shell Script) | cloud (AWS)"
+  location         : "Barreiras, BA"
   employer         : "Especialista em TI"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "samara12668t@gmail.com" 
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  Email      : # Usernam
+  linkedin   : "samara-trindade-870340185"
+ 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
