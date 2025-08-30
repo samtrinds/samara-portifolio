@@ -6,10 +6,6 @@ Este é o repositório do portfólio profissional da Samara da Trindade.
 
 ---
 
-## 📁 Estrutura do Projeto
-
----
-
 ## 🎯 Projetos em Destaque
 ---
 ### 1. Automação com Shell Script
