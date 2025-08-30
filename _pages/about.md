@@ -36,8 +36,8 @@ Meu objetivo é unir **infraestrutura, automação e cloud** para entregar solu�
 
 ---
 
-📍 Localização: Vitória da Conquista, BA  
-📩 [Entre em contato](mailto:seu-email-aqui)  
-🔗 [Meu LinkedIn](https://linkedin.com/in/seu-perfil)  
+📍 Localização: Barreiras, BA  
+📩 [Entre em contato](samara12668t@gmail.com)  
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/samara-trindade-870340185/)  
 
 
