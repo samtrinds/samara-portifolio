@@ -36,8 +36,3 @@ Meu objetivo é unir **infraestrutura, automação e cloud** para entregar solu�
 
 ---
 
-📍 Localização: Barreiras, BA  
-📩 [Entre em contato](samara12668t@gmail.com)  
-🔗 [Meu LinkedIn](https://www.linkedin.com/in/samara-trindade-870340185/)  
-
-
