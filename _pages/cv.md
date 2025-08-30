@@ -9,28 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educação
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Pós-graduação em Engenharia de Redes, Cruzeiro do Sul, 2025 
+* Gestão de Tecnologia da Informação, Unicesumar, 2023
+* Ensino médio técnico em Tecnologia da Informação, CETEP, 2020
 
-Work experience
+Experiência
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dantas, 2023: Analista de Redes e Infraestrutura
+  * Administração de servidores Linux e Windows: otimização contínua, reduzindo incidentes e garantindo alta disponibilidade.
+  * Deploy de aplicações web (front-end e back-end): preparação de ambientes e publicação de novas funcionalidades.
+  * Automação com Shell Script: desenvolvimento de scripts que reduziram em até 80% o tempo de tarefas críticas, padronizando rotinas e diminuindo falhas humanas.
+  * Gestão de 27+ servidores (9 físicos e 18 em Proxmox): acompanhamento de desempenho, disponibilidade e segurança em ambiente híbrido.
+  * Backup e recuperação de desastres: implementação de estratégias que reduziram downtime em até 30 minutos.
+  * Gerenciamento de SAMBA AD: centralização de autenticação e permissões para mais de 35 usuários, simplificando o controle de acessos.
+  * Monitoramento com Graylog e Zabbix: detecção de incidentes, com redução significativa no tempo médio de resposta.
+  * Administração de redes com Mikrotik e Unifi: otimização de tráfego, controle de logs e aumento da segurança perimetral.
+  * Atuação em SQL: suporte a banco de dados para pequenas manutenções em ERP, solucionando falhas.
+  * Documentação: a cada nova ferramenta ou configuração, era documentado o processo, para facilitar que outros colegas também pudessem compreender.
+  * Suporte técnico presencial e remoto para colaboradores da empresa.   
+  <br>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* A1 Tecnologia, 2022 - 2023: Suporte Técnico 
+  * Atendimento a usuários, resolução de incidentes de hardware e software.
+  * Manutenção preventiva e corretiva em equipamentos, prolongando a vida útil.
+  * Apoio na configuração e gerenciamento de redes e sistemas, contribuindo para maior estabilidade.
+  * Registro e acompanhamento de chamados técnicos pela plataforma Milvus, com foco na redução de tempo de resposta.
+  * Documentações sobre o parque de TI dos clientes, para facilitar na implementação de hardware e soluções.
+  * Consultoria geral para empresas que estavam começando, ajudando em quais equipamentos investir.
+<br>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dantas, Estágio, 2021 - 2022  : Suporte técnico
+  * Produção de documentação técnica de serviços implementados, facilitando padronização e onboarding.
+  * Desenvolvimento de scripts em Linux para automação de rotinas, reduzindo tarefas manuais.
+  * Suporte técnico em redes e servidores, garantindo continuidade operacional.
+  * Condução de treinamentos internos presenciais e online para capacitação de usuários.
+  <br>
   
 Skills
 ======
