@@ -25,10 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Samara da Trindade"
   pronouns         : "ela/dela"  
-  bio              : "Analista de Rede e Infraestrutura | suporte |servidores Linux/Windows e Virtualização | Automação (Ansible/Shell Script) | cloud (AWS)"
+  bio              : "Analista de Rede e Infraestrutura | suporte |servidores Linux/Windows e Virtualização | Automação (Shell Script) | cloud (AWS)"
   location         : "Barreiras, BA"
-  employer         : "Especialista em TI"
-  uri              : # URL
+  employer         : "Profissional em TI"
   email            : "samara12668t@gmail.com" 
 
   # Social media
@@ -90,21 +89,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+
 
 
 # Analytics

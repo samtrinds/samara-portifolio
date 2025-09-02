@@ -46,15 +46,30 @@ Experiência
   * Suporte técnico em redes e servidores, garantindo continuidade operacional.
   * Condução de treinamentos internos presenciais e online para capacitação de usuários.
   <br>
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Cloud (AWS)
+* Sistemas operacionais 
+  * Windows
+  * Windows Server
+  * Linux
+* Documentação técnica
+* Redes
+  * DNS
+  * VPN
+  * Mikrotik
+  * DHCP
+  * Firewall
+* Virtualização
+  * Vmware
+  * Proxmox
+  * Hyper- V
+* Comunicação clara, verbal e escrita
+* Shell Script
+* SQL
+* Backup e recuperação de desastres 
+
 
 Publications
 ======
